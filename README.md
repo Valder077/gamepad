@@ -11,7 +11,7 @@ This is my schematic
 
 ## PCB
 This is my PCB that i designed in KiCad
-![full hackpad](https://github.com/Valder077/gamepad/blob/main/Assets/PCBedited.jpg?raw=true)
+![full hackpad](https://github.com/Valder077/gamepad/blob/main/Assets/PCB.jpg?raw=true)
 
 ## Case Assembly 
 This is my case assembly 
